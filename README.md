@@ -59,3 +59,5 @@ Node durdurma:
 sudo systemctl stop suid
 ```
 
+Hepinize kolay gelsin..
+
