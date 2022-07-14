@@ -18,16 +18,12 @@ Full nodeumuzu yükleyelim (15-20 dakika kadar sürebilir)
 wget -O sui.sh https://raw.githubusercontent.com/kj89/testnet_manuals/main/sui/sui.sh && chmod +x sui.sh && ./sui.sh
 ```
 
-Node başarılı çalıştıktan sonra karşınıza şu şekilde bir görsel çıkacak:
-
-Güncelleme veya sıfırdan kurulum yaptıysanız bu şekilde çıkacak:
-
 Logları kontrol:
 ```
 docker logs -f sui-fullnode-1 --tail 50
 ```
 
-Daha sonra discorda giriyoruz ve şu şekilde mesaj atıyoruz #node-ip-application kanalına: https://discord.gg/JAMG9Q4U
+Daha sonra discorda giriyoruz ve mesaj atıyoruz #node-ip-application kanalına: https://discord.gg/JAMG9Q4U
 
 Not: #pick-a-role role kanalından da rol alabilirsiniz isterseniz emojilere tıklayarak.
 
