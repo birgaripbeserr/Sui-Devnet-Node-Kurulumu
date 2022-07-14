@@ -22,12 +22,12 @@ Node başarılı çalıştıktan sonra karşınıza şu şekilde bir görsel ç�
 
 Güncelleme veya sıfırdan kurulum yaptıysanız bu şekilde çıkacak:
 
-# Logları kontrol:
+Logları kontrol:
 ```
 docker logs -f sui-fullnode-1 --tail 50
 ```
 
-Daha sonra discorda giriyoruz ve şu şekilde mesaj atıyoruz #node-ip-application kanalına: https://discord.gg/GUeN8TY7xD
+Daha sonra discorda giriyoruz ve şu şekilde mesaj atıyoruz #node-ip-application kanalına: https://discord.gg/JAMG9Q4U
 
 Not: #pick-a-role role kanalından da rol alabilirsiniz isterseniz emojilere tıklayarak.
 
