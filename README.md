@@ -1,0 +1,1 @@
+# Sui-Devnet-Node-Kurulumu
