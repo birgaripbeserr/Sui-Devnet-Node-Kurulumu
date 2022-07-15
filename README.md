@@ -33,7 +33,7 @@ Yararlı Komutlar
 
 Loglar: 
 ```
-journalctl -u suid -f -o cat
+docker logs -f sui-fullnode-1 --tail 50
 ```
 
 Node silmek için:
