@@ -29,7 +29,7 @@ Not: #pick-a-role role kanalından da rol alabilirsiniz isterseniz emojilere tı
 
 Nodeunuzu kontrol etmek için: https://node.sui.zvalid.com/
 
-##Yararlı Komutlar 
+## Yararlı Komutlar 
 
 Loglar: 
 ```
